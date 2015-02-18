@@ -1,0 +1,16 @@
+# Site settings
+title: Get Started with Rails
+email: fijiaaron@one-shore.com
+description: > # this means to ignore newlines until "baseurl:"
+  Get Started learning Ruby on Rails the right way.
+  
+  * Learn how to set up a professional Rails development environment.
+  * Understand the "magic" behind Ruby on Rails
+  * Deploy to a scalable Rails production environment
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
